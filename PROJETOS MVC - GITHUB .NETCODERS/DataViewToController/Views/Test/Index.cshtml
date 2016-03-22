@@ -1,0 +1,27 @@
+﻿@model DataViewToController.ViewModels.Programming
+@*@Layout=null;       This line is for MVC5*@
+
+<script src="~/Scripts/jquery-1.7.1.js"></script>
+<script src="~/Scripts/pass-data.js"></script>
+
+@{Html.BeginForm("Form", "Test", FormMethod.Post);
+  
+    <input type="text" value="text1Value" id ="text1" name="text1" /><br />
+    <input type="text" value="text2Value" id ="text2" name="text2"/><br />
+    <select name="select1">
+        <option value="1">select1</option>
+        <option value="2">select2</option>
+    </select><br />
+    
+    <input type="hidden" value="hidden" id ="others" name="parameter" />
+    
+   
+    @Html.TextBoxFor(m => m.selectedLanguange)
+    @Html.TextBoxFor(m => m.selectedType) 
+    
+    <button type="submit">submit</button><br />
+    <button type="button" id ="ajax_method">submit Via AJAX</button>
+    
+  } 
+   
+

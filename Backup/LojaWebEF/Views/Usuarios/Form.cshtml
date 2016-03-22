@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Form";
+}
+
+<h2>Novo Usuário</h2>
+
+<form action="@Url.Action("Adiciona", "Usuarios")" method="post">
+    <label>
+        Nome:
+        <input type="text" name="usuario.Nome" />
+    </label>
+    <label>
+        Senha:
+        <input type="password" name="usuario.Senha" />
+    </label>
+    <input type="submit" value="Adicionar"/>
+</form>

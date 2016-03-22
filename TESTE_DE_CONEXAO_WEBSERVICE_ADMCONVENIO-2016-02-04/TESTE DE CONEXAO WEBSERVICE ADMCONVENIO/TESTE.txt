@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<members>
+   <id>3422345</id>
+   <name>Bill Gates</name>
+   <id>232311</id>
+   <name>Bob Barker</name>
+</members>

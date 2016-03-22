@@ -1,0 +1,54 @@
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\DataViewToController.dll
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\DataViewToController.pdb
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\Microsoft.Web.Infrastructure.dll
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\Newtonsoft.Json.dll
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Net.Http.Formatting.dll
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.Helpers.dll
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.Http.dll
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.Http.WebHost.dll
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.Mvc.dll
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.Razor.dll
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.WebPages.Deployment.dll
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.WebPages.dll
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.WebPages.Razor.dll
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\Newtonsoft.Json.xml
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Net.Http.Formatting.xml
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.Helpers.xml
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.Http.xml
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.Http.WebHost.xml
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.Mvc.xml
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.Razor.xml
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.WebPages.xml
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.WebPages.Deployment.xml
+D:\Webserver\Sandbox\Dot Net\DataViewToController\bin\System.Web.WebPages.Razor.xml
+D:\Webserver\Sandbox\Dot Net\DataViewToController\obj\Debug\DataViewToController.csprojResolveAssemblyReference.cache
+D:\Webserver\Sandbox\Dot Net\DataViewToController\obj\Debug\DataViewToController.dll
+D:\Webserver\Sandbox\Dot Net\DataViewToController\obj\Debug\DataViewToController.pdb
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\DataViewToController.dll.config
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\DataViewToController.dll
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\DataViewToController.pdb
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Net.Http.Formatting.dll
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.Helpers.dll
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.Http.dll
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.Http.WebHost.dll
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.Mvc.dll
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.Razor.dll
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.WebPages.dll
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.WebPages.Razor.dll
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\Newtonsoft.Json.xml
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Net.Http.Formatting.xml
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.Helpers.xml
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.Http.xml
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.Http.WebHost.xml
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.Mvc.xml
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.Razor.xml
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.WebPages.xml
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\bin\System.Web.WebPages.Razor.xml
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\obj\Debug\DataViewToController.csprojResolveAssemblyReference.cache
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\obj\Debug\DataViewToController.dll
+C:\Users\sidnei.BELLA-RPC\Desktop\DataViewToController\obj\Debug\DataViewToController.pdb

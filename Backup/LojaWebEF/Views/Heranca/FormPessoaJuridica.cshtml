@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "FormPessoaJuridica";
+}
+
+<h2>Nova Pessoa Jurídica</h2>
+
+<form action="@Url.Action("AdicionaPessoaJuridica", "Heranca")" method="post">
+    <label>
+        Nome:
+        <input type="text" name="pessoaJuridica.Nome" />
+    </label>
+    <label>
+        Senha:
+        <input type="password" name="pessoaJuridica.Senha" />
+    </label>
+    <label>
+        CNPJ:
+        <input type="text" name="pessoaJuridica.CNPJ" />
+    </label>
+    
+    <input type="submit" />
+</form>

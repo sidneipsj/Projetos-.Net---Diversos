@@ -1,0 +1,20 @@
+﻿@model LojaWebEF.Entidades.Usuario
+
+@{
+    ViewBag.Title = "Visualiza";
+}
+
+<h2>Usuario - @Model.Nome</h2>
+
+<form action="@Url.Action("Atualiza", "Usuarios")" method="post">
+    <input type="hidden" name="usuario.Id" value="@Model.Id" />
+    <label>
+        Nome:
+        <input type="text" name="usuario.Nome" value="@Model.Nome" />
+    </label>
+    <label>
+        Senha:
+        <input type="password" name="usuario.Senha" value="@Model.Senha"/>
+    </label>
+    <input type="submit" value="Alterar" />
+</form>
